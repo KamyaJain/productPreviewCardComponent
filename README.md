@@ -1,0 +1,2 @@
+# productPreviewCardComponent
+Frontend mentor challenge 
